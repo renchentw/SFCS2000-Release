@@ -8,3 +8,4 @@ V 1.20.0427.0 - 修改SFC.GetMAC方法，如果AccessCode為null，就把整個�
 
 V 1.20.0512.0 - 新增SFC(ip)建構子，使得指定IP更為方便。
 
+V 1.20.0529.0 - 新增ZWave.cs，用於取代Z-Wave Web CGI。
